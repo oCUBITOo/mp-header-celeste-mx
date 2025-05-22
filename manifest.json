@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Mercado Pago Header Celeste",
+  "version": "1.0",
+  "description": "Vuelve el header de Mercado Pago al color celeste original.",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.mercadopago.com.ar/*"
+      ],
+      "js": ["content.js"]
+    }
+  ]
+}

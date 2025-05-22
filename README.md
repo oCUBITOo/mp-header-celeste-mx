@@ -32,4 +32,4 @@ MIT
 
 ---
 
-Hecho por [Tu nombre o usuario de GitHub]
+Hecho por, sinceramente, ChatGPT
