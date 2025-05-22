@@ -23,8 +23,8 @@ Mercado Pago actualizó el diseño de su web y cambió el tradicional header cel
 
 ## Contribuciones
 
-Pull requests y sugerencias son bienvenidas.  
-Si Mercado Pago cambia el diseño y la extensión deja de funcionar, podés abrir un issue o mandar tu fix.
+## Disclaimer
+Esta extensión es un proyecto independiente y no está afiliada ni respaldada por Mercado Pago. Solo modifica la apariencia del sitio en tu navegador y no recopila ningún dato.
 
 ## Licencia
 
@@ -32,4 +32,4 @@ MIT
 
 ---
 
-Hecho por, sinceramente, ChatGPT
+Hecho por, sinceramente, ChatGPT e inspirado por el deseo en X de Damian Catanzaro (https://x.com/DamianCatanzaro/status/1925531156210225633)
