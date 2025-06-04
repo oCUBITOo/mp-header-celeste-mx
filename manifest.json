@@ -6,7 +6,8 @@
   "content_scripts": [
     {
       "matches": [
-        "https://www.mercadopago.com.ar/*"
+        "https://www.mercadopago.com.mx/*"
+        "https://www.mercadolibre.com/jms/mlm/lgz/msl/*"
       ],
       "js": ["content.js"]
     }
