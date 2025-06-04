@@ -1,3 +1,7 @@
+FORK
+CREDITOS AL CREADOR: tomasdelbianco
+REPOSITORIO ORIGINAL: https://github.com/tomasdelbianco/mp-header-celeste
+
 # MercadoPago Header Classic
 
 Una extensión para Chrome (open source) que vuelve el header de Mercado Pago al celeste clásico, reemplazando el amarillo de la nueva interfaz.
@@ -9,7 +13,7 @@ Mercado Pago actualizó el diseño de su web y cambió el tradicional header cel
 ## Características
 
 - Cambia automáticamente el color del header superior al celeste clásico de Mercado Pago.
-- Funciona en todas las páginas de `mercadopago.com.ar`.
+- Funciona en todas las páginas de `mercadopago.com.mx`.
 - Ligera, simple y sin configuraciones adicionales.
 - Código abierto: podés revisarlo, modificarlo o colaborar.
 
